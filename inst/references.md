@@ -13,7 +13,7 @@ Suggestions for controlling characteristics of playback devices in
 internet experiments. *Behavior Research Methods*.
 <https://doi.org/10.3758/s13428-022-01859-8>
 
-Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2022). *The
+Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The
 Headphone and Loudspeaker Test – Part II: A comprehensive playback
-device screening method in internet experiments*. Institute for
-Musicology, Hanover University of Music, Drama and Media.
+device screening method in internet experiments. *Behavior Research
+Methods*. <https://doi.org/10.3758/s13428-022-02048-3>
