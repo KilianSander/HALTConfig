@@ -10,7 +10,7 @@ and psychometrics* (pp. 723–744). American Psychological Association.
 Wycisk, Y., Kopiez, R., Bergner, J., Sander, K., Preihs, S., Peissig,
 J., & Platz, F. (2022). The Headphone and Loudspeaker Test – Part I:
 Suggestions for controlling characteristics of playback devices in
-internet experiments. *Behavior Research Methods*.
+internet experiments. *Behavior Research Methods*, *55*, 1094–1107.
 <https://doi.org/10.3758/s13428-022-01859-8>
 
 Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The
