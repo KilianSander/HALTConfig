@@ -16,4 +16,4 @@ internet experiments. *Behavior Research Methods*, *55*, 1094–1107.
 Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The
 Headphone and Loudspeaker Test – Part II: A comprehensive playback
 device screening method in internet experiments. *Behavior Research
-Methods*. <https://doi.org/10.3758/s13428-022-02048-3>
+Methods*, *56*, 362–378. <https://doi.org/10.3758/s13428-022-02048-3>
