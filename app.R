@@ -27,7 +27,7 @@ get_intro_text <- function(){
         "With this tool you can estimate the composition of a given sample after a screening procedure was applied."),
       p("This is Version 1.2 for HALT v0.11.0 and higher"),
       p("Thank you for your interest."),
-      p("Kilian Sander, Yves Wycisk"), style = "width:90%;text-align:justify")
+      p("Kilian Vogt, Yves Wycisk"), style = "width:90%;text-align:justify")
 }
 
 input_width <- 500
